@@ -1,3 +1,5 @@
 class HeroSerializer < ActiveModel::Serializer
-  attributes :id, :name, :super_name 
+  attributes :id, :name, :super_name
+  
+
 end
